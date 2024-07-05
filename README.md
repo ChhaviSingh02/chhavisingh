@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://x.com/ChhaviTomar10) -
+Your Name - [@Chhavi](https://x.com/ChhaviTomar10) -
 
 Project Link: [https://github.com/your-username/portfolio-website](https://github.com/ChhaviSingh02/portfolio-website)
 
